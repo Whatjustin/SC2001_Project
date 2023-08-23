@@ -1,0 +1,3 @@
+algo,noOfComparisons,cpuTimeInMs
+mergesort,215736278,4481.8
+hybridsort,230683378,3595.4
